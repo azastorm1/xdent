@@ -1,0 +1,46 @@
+.mainzagreb {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.Zagrebfeatures {
+  margin-left: 5%;
+  margin-top: 3%;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+  display: flex;
+  width: 45%;
+}
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+  .Zagrebfeatures {
+    width: 80%;
+  }
+}
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+  .Zagrebfeatures {
+    width: 80%;
+  }
+}
+@media only screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) {
+  .Zagrebfeatures {
+    width: 80%;
+  }
+}
+.Zagrebfeatures > a {
+  color: black;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-family: "Raleway";
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.Zagrebfeatures > a:hover {
+  color: red;
+}
+.zagreb-h {
+  font-size: 24px;
+}
+#ztime {
+  margin-top: 15%;
+}

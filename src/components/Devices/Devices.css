@@ -1,0 +1,42 @@
+.devices {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.devices > .container > h1{
+  margin-bottom: 5%;
+}
+.message > img {
+  width: 100%;
+}
+.message > h6 {
+  text-align: end;
+}
+.message > h6 > a {
+  color: rgb(20, 20, 20);
+} 
+.fa-3x{
+  color: rgb(207, 5, 5);
+}
+.message > h6 > a:hover{
+  color: rgb(207, 5, 5);
+}
+.devices > .container > h5 {
+  font-weight: 700;
+  font-size: 40px;
+}
+.focus > p, .ortopanorama > p, .klakt > p {
+  margin-top: 5%;
+  font-size: 15px;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-family: "Raleway";
+  letter-spacing: 1px;
+}
+.klakt > ul > li{
+    margin-top: 5%;
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}

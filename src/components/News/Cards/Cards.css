@@ -1,0 +1,57 @@
+.first-card{
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+.mainly{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mainly > img{
+    width: 90%;
+}
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 667px) 
+and (-webkit-device-pixel-ratio: 2) {
+    .mainly{
+        display: block;
+    }
+    .lately-news{
+        border-left: none;
+    }
+    }
+.mainly > img:hover {
+    transition: 7.0s ease-out;
+    transform:scale(1.1);
+}
+.lately-news{
+    border-left: white 50px solid;
+}
+.lately-news > p{
+    display: flex;
+    letter-spacing: 1px;
+}
+.lately-news > p > span > h6{
+    margin-left: 5px;
+}
+.card-hr{
+    color: rgb(252, 5, 5);
+    width: 35px;
+}
+.card-links > ul > li{
+    list-style: none;
+}
+.card-links > ul > li > a > p:hover{
+    color: brown;
+}
+.card-links > ul > li > a > p{
+    color: black;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-left: -17%;
+    letter-spacing: 1px;
+}
+.card-links > ul > hr{
+    margin-left: -17%;
+}

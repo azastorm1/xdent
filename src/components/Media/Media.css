@@ -1,0 +1,77 @@
+.media{
+    margin-top: 3%;
+}
+.d{
+    margin-top: 3%;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+#send-a{
+    color: black;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-family: 'Raleway';
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+#send-a:hover{
+    color: red;
+}
+.border{
+    color: gray;
+    height: 20px;
+}
+.twoD-p > p{
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}
+.inside-record > h5{
+    color: red;
+}
+.inside-record > ul > li{
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}
+.inside-record > p {
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}
+.panorama-record > h5{
+    color: red;
+}
+.panorama-record > p{
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}
+.special-record > h5 {
+    color: red;
+}
+.special-record{
+    margin-bottom: 10%;
+}
+.special-record > p{
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: "Raleway";
+    letter-spacing: 1px;
+}
+.message{
+    margin-top: 5%;
+}
+#red{
+    color: red;
+}

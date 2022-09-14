@@ -1,0 +1,92 @@
+.slide1-text > h1 {
+  font-weight: 300;
+  font-size: 34.5351px;
+  line-height: 45px;
+  text-transform: none;
+}
+.slide1-text > p {
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.slide1-text {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+#hr {
+  width: 80%;
+  font-size: 2px;
+}
+#cards {
+  justify-content: space-around;
+}
+.carda {
+  width: 400px;
+  height: 600px;
+
+  display: grid;
+  grid-template-rows: minmax(100%, 1fr);
+  grid-template-areas: "stack";
+  overflow: hidden;
+}
+.carda > img,
+.carda > figcaption {
+  grid-area: stack;
+}
+.carda img {
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+}
+
+.carda > figcaption {
+  grid-area: stack;
+  background-color: rgb(243, 36, 36);
+  transform: translateY(calc(100% - 3rem));
+  transition: transform 600ms;
+  opacity: 0.7;
+}
+
+.carda > figcaption > h3 {
+  height: 4rem;
+}
+
+.carda:hover figcaption {
+  transform: none;
+}
+
+.animation-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.center{
+    text-align: center;
+}
+.center > h1{
+    color: white;
+}
+.center > h4{
+    color: white;
+}
+.f-loc {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.f-loc > h1{
+    color: white;
+}
+.f-loc > h6 {
+  margin-left: 10px;
+  color: white;
+}
+.hrwhite{
+    color: white;
+}
+.reka{
+    text-align: center;
+}
+.reka > h1{
+    color: white;
+}

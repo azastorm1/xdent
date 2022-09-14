@@ -1,0 +1,65 @@
+nav{
+    text-align: center;
+
+}
+.logo{
+    width: 180px;
+}
+.fa-2x{
+    color: black;
+}
+.fa-2x:hover{
+    color: brown;
+}
+.nav-item{
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0 10px;
+    padding: 0 10px;
+}
+#navlink{
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    height: 70px;
+    color: black;
+}
+#navlink:hover{
+    color: rgb(180, 5, 5);
+}
+#syomki{
+    font-family: 'Raleway';
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    border-right: 2px solid rgb(180, 5, 5);
+    height: 50px;
+}
+#syomki:hover{
+    color: rgb(180, 5, 5);
+}
+#navbarDropdownMenuLink{
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(180, 5, 5);
+}
+#navlink:hover{
+    color: rgb(180, 5, 5);
+}
+#dropdown-item{
+    color: black;
+}
+#dropdown-item:hover{
+    color: rgb(180, 5, 5);
+    background-color: rgb(238, 231, 231);
+}
+.nav-item > button{
+    border-radius: 10px;
+    padding: 3px;
+    color: white;
+    background: red;
+}

@@ -1,0 +1,69 @@
+
+.reg {
+  display: flex;
+  justify-content: space-between;
+}
+#sign{
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    background: red;
+    border-radius: 12px;
+    padding: 10px;
+}
+#reg{
+    margin-top: 5%;
+}
+.reg-btn > button{
+    margin-left: 45%;
+    margin-top: 3%;
+    color: white;
+}
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 896px) 
+    and (-webkit-device-pixel-ratio : 2) {
+        .reg-btn > button{
+            margin-left: 33%;
+        }
+     }
+     @media only screen 
+     and (device-width : 375px) 
+     and (device-height : 667px) 
+     and (-webkit-device-pixel-ratio : 2) {
+         .reg-btn > button{
+             margin-left: 33%;
+         }
+      }
+      @media only screen 
+      and (device-width: 390px) 
+      and (device-height: 844px) 
+      and (-webkit-device-pixel-ratio: 3) { 
+        .reg-btn > button{
+            margin-left: 33%;
+        }   
+      }
+      @media only screen 
+      and (device-width: 412px) 
+      and (device-height: 915px) 
+      and (-webkit-device-pixel-ratio: 3.5) { 
+        .reg-btn > button{
+            margin-left: 33%;
+        }   
+      }
+      @media only screen 
+      and (device-width: 412px) 
+      and (device-height: 914px) 
+      and (-webkit-device-pixel-ratio: 2.625) { 
+        .reg-btn > button{
+            margin-left: 33%;
+        }   
+      }
+      @media only screen 
+      and (device-width: 360px) 
+      and (device-height: 740px) 
+      and (-webkit-device-pixel-ratio: 4) { 
+        .reg-btn > button{
+            margin-left: 33%;
+        }   
+      }

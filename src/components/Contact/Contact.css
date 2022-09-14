@@ -1,0 +1,47 @@
+.contact {
+  margin-top: 3%;
+}
+.contact > .container > .row {
+  margin-top: 3%;
+}
+#danger {
+  margin-top: 3%;
+}
+
+.river-contact > h3{
+  color: #d12d09;
+}
+.river-contact > p{
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.split-contact > h3{
+  color: #d12d09;
+}
+.split-contact > p{
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.zagreb-contact > h3{
+  color: #d12d09;
+}
+.zagreb-contact > p{
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+#send-p{
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 1.5%;
+  text-transform: uppercase;
+}
+#send-a{
+  color: #d12d09;
+}
+#send-a:hover{
+  color: black;
+}
+#thnx{
+  color: #d12d09;
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+.news{
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+.bar{
+    font-size: 35px;
+    margin-left: 45%;
+    position: absolute;
+    margin-top: 43%;
+    color: white;
+    display: none;
+}
+.f-png:hover{
+    transition: 4.0s ease-out;
+    transform:scale(1.1);
+}
+.bar:hover{
+    display: block;
+    transform: scale(1.1);  
+}  
+.card-first > img, .card-second > img, .card-third > img, .card-fourth > img {
+    width: 100%;
+} 
+.card-first > h4, .card-second > h4, .card-third > h4, .card-fourth > h4{
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Roboto';
+    font-size: 24px;
+    line-height: 1.1;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.card-first > p, .card-second > p, .card-third > p, .card-fourth > p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: grey;
+}
+.card-first > p:hover, .card-second > p:hover, .card-third > p:hover, .card-fourth > p:hover{
+    color: brown;
+}

@@ -1,0 +1,19 @@
+.footer-img>img{
+    width: 100px;
+}
+.footer-img>a>img{
+    width: 100px;
+    margin-left: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+}
+.footer-p{
+    text-transform: uppercase;
+    letter-spacing: 0.1px;
+    line-height: 32px;
+    font-size: 14px;
+}

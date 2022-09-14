@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cf7df6d.css",
+    "main.js": "/static/js/main.5ba6c35b.js",
+    "static/media/reka.png": "/static/media/reka.d9d3eacef52cb86e0647.png",
+    "static/media/zagreb.png": "/static/media/zagreb.21ad7c8efac32d41837c.png",
+    "static/media/split.png": "/static/media/split.2219ff0dc2ca4b38e91f.png",
+    "static/media/slide1.png": "/static/media/slide1.2f511b16cba48dd24a94.png",
+    "static/media/slide2.png": "/static/media/slide2.4b9f0281fbd2654ad924.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7cf7df6d.css.map": "/static/css/main.7cf7df6d.css.map",
+    "main.5ba6c35b.js.map": "/static/js/main.5ba6c35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf7df6d.css",
+    "static/js/main.5ba6c35b.js"
+  ]
+}
